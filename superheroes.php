@@ -1,5 +1,6 @@
 <?php
 
+
 $superheroes = [
   [
       "id" => 1,
@@ -64,7 +65,6 @@ $superheroes = [
 ];
 
 ?>
-
 <ul>
 <?php foreach ($superheroes as $superhero): ?>
   <li><?= $superhero['alias']; ?></li>

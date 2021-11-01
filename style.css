@@ -1,3 +1,12 @@
 header{
-    background-color: blue;
+    background-color: #add8e6;
+    padding: auto;
+}
+
+input{
+    width: 350px;
+}
+
+button{
+    background-color: red;
 }
